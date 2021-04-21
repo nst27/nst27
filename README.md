@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishant Nawadkar
 - 👀 I’m interested in Web Development and App Development and Designing
-- 🌱 I’m currently learning pursuing IT engineering from Don Bosco Institute of Technology Mumbai
+- 🌱 I’m currently pursuing IT engineering from Don Bosco Institute of Technology Mumbai
 - 💞️ I’m open to accept projects based on Web and Android application
 - 📫 You can contact me through mail - talk2nishantn@gmail.com
 
