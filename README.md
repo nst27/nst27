@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishant Nawadkar
-- 👀 I’m interested in Web Development and App Development and Designing
-- 🌱 I’m currently pursuing IT engineering from Don Bosco Institute of Technology Mumbai
+- 👀 I’m interested in Web Development and App Development.
+- 🌱 I am currently working as a full stack engineer at SS&C Technologies 
 - 📫 You can contact me through mail - talk2nishantn@gmail.com
 
 <!---
